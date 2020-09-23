@@ -1,3 +1,7 @@
+/*Question:
+          //  Write a program which is used to add two number.*/
+
+
 #include<stdio.h>
 int add(int ino1,int ino2)
 {
