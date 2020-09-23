@@ -1,3 +1,6 @@
+/* Write A Program Which Accept Name From Command Line Argument & Display On Screen.
+*/
+
 #include<stdio.h>
 int main()
 {
