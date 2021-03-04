@@ -20,7 +20,7 @@ return 0;
 fd=open(argv[1],O_RDONLY);
 if(fd==-1)
 {
-printf("Unable to pen the file\n");
+printf("Unable to open the file\n");
 close(fd);
 return -1;
 }
